@@ -1,1 +1,1 @@
-Here we will solve [Hackerrank](Hackerrank.com) problems with GO.
+Here we will solve [Hackerrank](https://www.hackerrank.com) problems with GO.
